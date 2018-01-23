@@ -2,7 +2,7 @@
 static変数
 
 #### 処理
-[Java_SampleCode27](https://github.com/xekid78/Java_SampleCode27)にstatic変数で消費税込みの価格を計算たものです。
+[JavaSampleCode27](https://github.com/xekid78/Java_SampleCode27)にstatic変数で消費税込みの価格を計算たものです。
 
 #### 出力結果  
 ```
