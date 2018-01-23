@@ -1,4 +1,4 @@
-# Java_SampleCode29
+# JavaSampleCode29
 static変数
 
 #### 処理
