@@ -1,5 +1,5 @@
 # JavaStaticVariable
-static変数
+`static`変数
 
 ## 処理
 [JavaArgumentAndReturnValue](https://github.com/xekid78/JavaArgumentAndReturnValue)にstatic変数で消費税込みの価格を計算たものです。
